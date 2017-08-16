@@ -1,0 +1,19 @@
+{
+  "name": "iotacasts-starter",
+  "version": "1.0.0",
+  "description": "Simple Gulp and Sass Starter Kit for iotaCasts",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Dimitris Psaropoulos",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "iotacss": "^1.0.1"
+  }
+}
